@@ -1,2 +1,2 @@
 # Tempo
- IAT 359 Final Project By David Qiu and Long Nguyen 
+ IAT 359 Final Project By David Qiu
