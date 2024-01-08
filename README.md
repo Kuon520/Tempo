@@ -1,2 +1,2 @@
 # Tempo
-Project By David Qiu
+Project By David Qiu and Long Nguyen
